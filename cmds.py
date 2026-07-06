@@ -5,7 +5,7 @@ from telegram.constants import ParseMode
 from telegram.ext import ContextTypes
 from telegram.error import TelegramError
 
-ADMIN_ID = 7758558590 
+ADMIN_ID = 1782425449
 
 # ==============================
 # LOGGING CONFIGURATION
