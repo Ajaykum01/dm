@@ -21,10 +21,10 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # List of admin user IDs who can use plan commands
-ADMIN_IDS = [7758558590]  # Replace with your actual admin ID(s)
+ADMIN_IDS = [1782425449]  # Replace with your actual admin ID(s)
 
 # Chat ID to send purchase logs to
-LOG_CHANNEL_ID = -1003838614236
+LOG_CHANNEL_ID = -1002158427098
 
 # Plan configurations
 PLANS = {
