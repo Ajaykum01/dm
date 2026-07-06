@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 # ==============================
 # CONFIG
 # ==============================
-OWNER_ID = 7758558590
+OWNER_ID = 2117119246
 SLEEP_TIME = 0.09
 PROGRESS_EVERY = 25
 
